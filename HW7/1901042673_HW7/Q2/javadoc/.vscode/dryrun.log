@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/erselubuntuwsl/DataStructure_Homeworks/hw7/hw7_04/Q2'
+javac Driver.java
+java Driver
+make: Leaving directory '/home/erselubuntuwsl/DataStructure_Homeworks/hw7/hw7_04/Q2'
+ 

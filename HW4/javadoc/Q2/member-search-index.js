@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Q2","l":"Q2()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Q2","l":"Question2(int[], int, int, int, int)","url":"Question2(int[],int,int,int,int)"},{"p":"<Unnamed>","c":"Q2","l":"Question2(int[], int, int)","url":"Question2(int[],int,int)"},{"p":"<Unnamed>","c":"Q2","l":"test()"}]
